@@ -9,4 +9,9 @@ ATM_Balance_Simulator obj=new ATM_Balance_Simulator();
 //obj.RunATM();
 
 Atm_Simulator_switch ch=new Atm_Simulator_switch();
-ch.RunATM();
+//ch.RunATM();
+
+Warrior warrior = new Warrior();
+warrior.ShowHealth();
+//warrior.Damage();
+warrior.Heal();
