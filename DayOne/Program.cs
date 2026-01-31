@@ -12,6 +12,13 @@ Atm_Simulator_switch ch=new Atm_Simulator_switch();
 //ch.RunATM();
 
 Warrior warrior = new Warrior();
-warrior.ShowHealth();
+//warrior.ShowHealth();
 //warrior.Damage();
-warrior.Heal();
+//warrior.Heal();
+
+Ref_Out ref_Out = new Ref_Out();
+//ref_Out.Count();
+loop loop = new loop();
+loop.LoopPattern();
+loop.LoopPatterns();
+loop.Space();
